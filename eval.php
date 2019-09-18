@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Project Evaluation</title>
+    <title>Project Evaluations</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
     <script src="code.js"></script>
